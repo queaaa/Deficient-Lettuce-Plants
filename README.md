@@ -9,5 +9,5 @@ As of June 5, 2023:
 |Deficiency|Count|
 |----------|-----|
 |Control| 16 |
-|-N| 64 |
+|-N| 63 |
 |-K| 64 |
