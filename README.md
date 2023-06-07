@@ -12,3 +12,14 @@ As of June 5, 2023:
 |Control| 16 |
 |-N| 63 |
 |-K| 64 |
+
+As of June 7, 2023:  
+|Deficiency|Count|
+|----------|-----|
+|Control| 16 |
+|-N| 64 |
+|-K| 64 |
+
+---
+
+*-N33 replaced and induced with N deficient solution as of June 7, 2023.*
