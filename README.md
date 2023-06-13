@@ -23,4 +23,5 @@ As of June 7, 2023:
 ---
 
 *-N33 replaced and induced with N deficient solution as of June 7, 2023.*  
+*-K34 had drastic changes from June 12-June 13.*  
 See also: [Deficient Lettuce Plants](https://docs.google.com/spreadsheets/d/1tsM6Py4OP15LFPLnA0kfek_sulDAHVhy0GFMe8xC9tk/edit#gid=1031994848)
