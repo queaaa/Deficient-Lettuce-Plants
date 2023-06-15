@@ -25,5 +25,6 @@ As of June 7, 2023:
 *-N33 replaced and induced with N deficient solution as of June 7, 2023.*  
 *-K34 changes from June 12-June 13.*  
 *-K34 looked healthy morning of June 14.*  
-*June 14: Started taking photos with flash.*  
+*June 14 Afternoon: Started taking photos with flash.*  
+*June 15: Started taking photos morning and afternoon, with and without flash.*  
 See also: [Deficient Lettuce Plants](https://docs.google.com/spreadsheets/d/1tsM6Py4OP15LFPLnA0kfek_sulDAHVhy0GFMe8xC9tk/edit#gid=1031994848)
