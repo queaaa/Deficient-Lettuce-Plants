@@ -22,6 +22,15 @@ As of June 7, 2023:
 
 ---
 
+|Date|Morning|Afternoon|
+|----|-------|---------|
+|06-14-23|-----|sunny|
+|06-15-23|sunny|cloudy/rainiy|
+|06-16-23|sunny|sunny|
+|06-17-23|sunny|n/a|
+
+---
+
 *-N33 replaced and induced with N deficient solution as of June 7, 2023.*  
 *-K34 changes from June 12-June 13.*  
 *-K34 looked healthy morning of June 14.*  
