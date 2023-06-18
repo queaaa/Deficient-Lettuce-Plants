@@ -28,7 +28,8 @@ As of June 7, 2023:
 |06-15-23|sunny|cloudy/rainy|
 |06-16-23|sunny|sunny|
 |06-17-23|sunny|sunny|
-|06-18-23|sunny||
+|06-18-23|sunny|cloudy|
+|06-19-23|||
 
 |Date|-N|-K|Control|
 |----|--|--|-------|
